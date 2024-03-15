@@ -26,7 +26,7 @@ In preparation.
 
 
 
-# Statistical and Bioinformatics Methods:
+# Statistical and Computational Methods:
 **Ahn S**, Datta S. (2024). Differential Network Connectivity Analysis for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values. *BMC Bioinformatics*. (Accepted)
 
 **Ahn S**<sup><span>&dagger;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422.
