@@ -13,6 +13,9 @@ Under Review at *Otolaryngology-Head and Neck Surgery*
 Wijayabahu A<sup><span>&#42;</span></sup>, **Ahn S**<sup><span>&#42;</span></sup>, Leeman R, Cohen R, Govind V, Devieux J, Baum M, Zhou Z, Li Z, Cook R. Changes in the Mediterranean Dietary Pattern After a 30-Day Drinking Reduction Contingency Management Intervention. <br>
 Under Review at *Alcohol: Clinical and Experimental Research*.
 
+Oh EJ, **Ahn S**, Tham T, Qian M. Expert-Guided Penalized Cox Regression Methods for Two-Phase Data with Application to Nasopharyngeal Cancer. <br>
+Under Review at *Journal of the American Statistical Association*
+
 **Ahn S**, Li Z. Causal Mediation Analysis for Microbiome Data With Survival Outcome. <br>
 In preparation.
 
@@ -22,6 +25,9 @@ In preparation.
 Gebru NM, James TG, **Ahn S**, Cheong JW, Berry MS, Kahler CW, Cook RL, Leeman RF. Relations between Sexual Delay Discounting and Alcohol Use in the Context of Pre-Exposure Prophylaxis. <br>
 In preparation.
 
+Barrow A, Richards V, **Ahn S**, Leeman R, Barnett N, Porges E, Cook RL, Wang Y. Validating a New-Generation Wrist-Worn Alcohol Biosensor Among Persons With and Without HIV in a Laboratory Setting. <br>
+In preparation.
+
 <br>
 
 
@@ -29,9 +35,10 @@ In preparation.
 # Statistical and Computational Methods:
 **Ahn S**, Datta S. (2024). Differential Network Connectivity Analysis for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values. *BMC Bioinformatics*. (Accepted)
 
-**Ahn S**<sup><span>&dagger;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422.
+**Ahn S**<sup><span>&dagger;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422. 
+[[R package](https://cran.r-project.org/web/packages/SOHPIE/index.html)] 
 
-**Ahn S**<sup><span>&dagger;</span></sup>, Datta S. (2023). PRANA: an R Package for Differential Co-Expression Network Analysis with the Presence of Additional Covariates. *BMC Genomics*. 24(1):687. PMID: 37974076.
+**Ahn S**<sup><span>&dagger;</span></sup>, Datta S. (2023). PRANA: an R Package for Differential Co-Expression Network Analysis with the Presence of Additional Covariates. *BMC Genomics*. 24(1):687. PMID: 37974076. [[R package](https://cran.r-project.org/web/packages/PRANA/index.html)] 
 
 **Ahn S**, Grimes T, Datta S. (2023). A Pseudo-Value Regression Approach for Differential Network Analysis of Co-Expression Data. *BMC Bioinformatics*. 24(1):8. PMID: 36624383.
 
