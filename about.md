@@ -1,8 +1,7 @@
 ---
-layout: default
-title: About
+layout: page
+permalink: /about/
 ---
-# About page
 
 I received my Ph.D. in Biostatistics from the [University of Florida](https://www.ufl.edu/) in the spring of 2023, where I was advised by [Somnath Datta](https://biostat.ufl.edu/profile/datta-somnath/) and [Samuel S. Wu](https://biostat.ufl.edu/profile/wu-samuel/). I was a NIH/NIAAA T32 Predoctoral Fellow at the Southern HIV and Alcohol Research Consortium, [Emerging Pathogens Institute](https://epi.ufl.edu/) (PI: [Robert L. Cook](https://epidemiology.phhp.ufl.edu/profile/cook-robert/)) from January 2021 to May 2023. 
 
