@@ -1,10 +1,8 @@
 # Site settings
-title: Aaron J. Molstad
-email: amolstad@umn.edu
+title: Seungjun Ahn
+email: seungjun.ahn@mountsinai.org
 # description: 
-url: "http://ajmolstad.github.io" # the base hostname & protocol for your site
-# twitter_username: ajmolstad
-# github_username:  ajmolstad
+url: "https://sjahnn.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
