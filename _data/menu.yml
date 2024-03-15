@@ -10,8 +10,8 @@
 #- title: "Software"
 #   href: "/software/"
 
-#- title: "Team"
-#  href: "/team/"
+- title: "Team"
+  href: "/team/"
 
 - title: "Github"
   href: "https://github.com/sjahnn"
