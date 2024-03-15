@@ -7,4 +7,11 @@
 - title: "Google Scholar"
   href: "https://scholar.google.com/citations?user=A3uQZZ4AAAAJ&hl=en"
 
-  
+#- title: "Software"
+#   href: "/software/"
+
+#- title: "Team"
+#  href: "/team/"
+
+- title: "Github"
+  href: "https://github.com/sjahnn"
