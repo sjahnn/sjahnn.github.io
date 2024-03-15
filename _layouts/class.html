@@ -1,0 +1,32 @@
+---
+layout: default2
+---
+
+
+<!--   <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+ -->
+<div id="class">
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
+
+<div id="secondary">
+
+ {% include_relative {{page.path | remove:'.md' | remove: 'teaching' | append:'-course-materials.md'}} %} 
+
+</div>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55515506-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55515506-1');
+</script>
