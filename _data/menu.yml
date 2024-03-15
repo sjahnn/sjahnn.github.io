@@ -4,11 +4,14 @@
 - title: "Research"
   href: "/research/"
 
-# - title: "Software"
-#   href: "/software/"
+- title: "Software"
+   href: "/software/"
 
-- title: "Teaching"
-  href: "/teaching/"
+- title: "Team"
+  href: "/team/"
+
+- title: "Google Scholar"
+  href: "https://scholar.google.com/citations?user=A3uQZZ4AAAAJ&hl=en"
 
 - title: "Github"
-  href: "https://github.com/ajmolstad"
+  href: "https://github.com/sjahnn"
