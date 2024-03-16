@@ -2,10 +2,10 @@
 layout: page
 permalink: /research/
 ---
-<span>&#42;</span> = contributed equally; <span>&dagger;</span> = corresponding author
+<span>&#42;</span> = contributed equally; <span>&#128231;</span> = corresponding author
 
 # Under Review or In Preparaton:
-**Ahn S**<sup><span>&dagger;</span></sup>, Oh EJ, Saleem MI, Tham T. Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
 Under Review at *Otolaryngology-Head and Neck Surgery*
 
 **Ahn S**<sup><span>&dagger;</span></sup>, Richards V, Thomas E, Jayaweera D, Govind V, Li Z, Cohen R, Cook R. Impact of Contingency Management Intervention Among Heavy Drinkers With and Without HIV on Liver Outcomes up to 90-Days Follow-Up. Submitted to *Gut and Liver*.
