@@ -3,7 +3,7 @@ layout: page
 permalink: /team/
 ---
 
-{% include image.html url="/images/WFu_Profile.JPG" width=400 %} 
+{% include image.html url="/images/WFu_Profile.JPG" width=300 %} 
 
 **Weijia Fu, M.S.** (Biostatistician II, Dec. 2023 -- Now)
 
