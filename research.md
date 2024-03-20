@@ -37,7 +37,7 @@ https://cran.r-project.org/web/packages/SOHPIE/index.html
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422. 
 [[R package](https://cran.r-project.org/web/packages/SOHPIE/index.html)] 
-<a href="https://cran.r-project.org/web/packages/SOHPIE/index.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://cran.r-project.org/web/packages/SOHPIE/index.html" style="color: blue; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Datta S. (2023). PRANA: an R Package for Differential Co-Expression Network Analysis with the Presence of Additional Covariates. *BMC Genomics*. 24(1):687. PMID: 37974076. [[R package](https://cran.r-project.org/web/packages/PRANA/index.html)] 
 
