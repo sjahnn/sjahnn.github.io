@@ -31,12 +31,13 @@ In preparation.
 <br>
 
 
-
+https://cran.r-project.org/web/packages/SOHPIE/index.html
 # Statistical and Computational Methods:
 **Ahn S**, Datta S. (2024). Differential Network Connectivity Analysis for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values. *BMC Bioinformatics*. 25(1):117. PMID: 38500042.
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422. 
 [[R package](https://cran.r-project.org/web/packages/SOHPIE/index.html)] 
+<a href="https://cran.r-project.org/web/packages/SOHPIE/index.html" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Datta S. (2023). PRANA: an R Package for Differential Co-Expression Network Analysis with the Presence of Additional Covariates. *BMC Genomics*. 24(1):687. PMID: 37974076. [[R package](https://cran.r-project.org/web/packages/PRANA/index.html)] 
 
