@@ -5,9 +5,6 @@ permalink: /research/
 <span>&#42;</span> = contributed equally; <span>&#9993;</span> = corresponding author
 
 # Under Review or In Preparaton:
-**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
-Under Review at *Otolaryngology-Head and Neck Surgery*
-
 **Ahn S**<sup><span>&#9993;</span></sup>, Richards V, Thomas E, Jayaweera D, Govind V, Li Z, Cohen R, Cook R. Impact of Contingency Management Intervention Among Heavy Drinkers With and Without HIV on Liver Outcomes up to 90-Days Follow-Up. Submitted to *Gut and Liver*.
 
 Wijayabahu A<sup><span>&#42;</span></sup>, **Ahn S**<sup><span>&#42;</span></sup>, Leeman R, Cohen R, Govind V, Devieux J, Baum M, Zhou Z, Li Z, Cook R. Changes in the Mediterranean Dietary Pattern After a 30-Day Drinking Reduction Contingency Management Intervention. <br>
@@ -47,8 +44,16 @@ In preparation.
 <br>
 
 
+# Collaborative Research (as a lead author):
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
+*Otolaryngology-Head and Neck Surgery*. Accepted.
 
-# Collaborative Research:
+**Ahn S**, Grimes T, Datta S. (2021). The Analysis of Gene Expression Data Incorporating Tumor Purity Information. *Frontiers in Genetics*. 12:642759. PMID: 34497631.
+
+<br>
+
+
+# Collaborative Research (as a co-author):
 Gebru NM, James TG, **Ahn S**, Cheong J, Berry MS, Cook RL, Leeman RF. (2024). A Behavioral Economic Examination of Sexual Behaviors in the Era of Pre-Exposure Prophylaxis via Explanatory Sequential Mixed Methods. *Archives of Sexual Behavior*. (Accepted)
 
 Zhang X, **Ahn S**, Qiu P, Datta S. (2023). Identification of Shared Biological Features in Four Different Lung Cells Infected with SARS-CoV-2 Virus Through RNA-Seq Analysis. *Frontiers in Genetics*. 14:1235927. PMID: 37662846.
@@ -58,8 +63,6 @@ Hemli J, Ducca E, Chaplin W, Arader L, Scheinerman J, Lesser M, **Ahn S**, Mihel
 Zhu D<sup><span>&#42;</span></sup>, Wong A<sup><span>&#42;</span></sup>, Oh EJ, **Ahn S**, Wotman M, Sahai T, Bottalico D, Frank D, Tham T. (2022). Impact of Treatment Parameters on Racial Survival Differences in Oropharyngeal Cancer: National Cancer Database Study. *Otolaryngology-Head and Neck Surgery*. 166(6):1134-1143. PMID: 34399637.
 
 Iyeke L, Moss R, Wang J, Sandhu L, Appold B, Kalontar E, Menoudakos D, Ramnarine M, LaVine SP, **Ahn S**, Richman M. (2022). Reducing Unnecessary ‘Admission’ Chest X-Rays: An Initiative to Minimize Low-Value Care. *Cureus*. 14(10):e29817. PMID: 36337809.
-
-**Ahn S**, Grimes T, Datta S. (2021). The Analysis of Gene Expression Data Incorporating Tumor Purity Information. *Frontiers in Genetics*. 12:642759. PMID: 34497631.
 
 Kasat K, **Ahn S**, Smith S, Zoullas S, Ellington M. (2021). Impact of Early-Onset Sepsis Guidelines on Breastfeeding. *Journal of Perinatology*. 41(10):2499-2504. PMID: 34362994.
 
