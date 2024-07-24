@@ -54,7 +54,7 @@ In preparation.
 
 
 # Collaborative Research (as a co-author):
-Gebru NM, James TG, **Ahn S**, Cheong J, Berry MS, Cook RL, Leeman RF. (2024). A Behavioral Economic Examination of Sexual Behaviors in the Era of Pre-Exposure Prophylaxis via Explanatory Sequential Mixed Methods. *Archives of Sexual Behavior*. (Accepted)
+Gebru NM, James TG, **Ahn S**, Cheong J, Berry MS, Cook RL, Leeman RF. (2024). A Behavioral Economic Examination of Sexual Behaviors in the Era of Pre-Exposure Prophylaxis via Explanatory Sequential Mixed Methods. *Archives of Sexual Behavior*. 53(4):1541-1559. PMID: 38472604.
 
 Zhang X, **Ahn S**, Qiu P, Datta S. (2023). Identification of Shared Biological Features in Four Different Lung Cells Infected with SARS-CoV-2 Virus Through RNA-Seq Analysis. *Frontiers in Genetics*. 14:1235927. PMID: 37662846.
 
