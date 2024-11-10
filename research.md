@@ -11,7 +11,7 @@ Wijayabahu A<sup><span>&#42;</span></sup>, **Ahn S**<sup><span>&#42;</span></sup
 Under Review at *Alcohol: Clinical and Experimental Research*.
 
 Oh EJ, **Ahn S**, Tham T, Qian M. Expert-Guided Penalized Cox Regression Methods for Two-Phase Data with Application to Nasopharyngeal Cancer. <br>
-Under Review at *Journal of the American Statistical Association*
+Major Revision, *Biometrics*.
 
 **Ahn S**, Li Z. Causal Mediation Analysis for Microbiome Data With Survival Outcome. <br>
 In preparation.
