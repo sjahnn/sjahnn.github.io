@@ -4,6 +4,7 @@ permalink: /research/
 ---
 <span>&#42;</span> = contributed equally; <span>&#9993;</span> = corresponding author
 
+<!---
 # Under Review or In Preparaton:
 **Ahn S**<sup><span>&#9993;</span></sup>, Richards V, Thomas E, Jayaweera D, Govind V, Li Z, Cohen R, Cook R. Impact of Contingency Management Intervention Among Heavy Drinkers With and Without HIV on Liver Outcomes up to 90-Days Follow-Up. Submitted to *Gut and Liver*.
 
@@ -26,9 +27,11 @@ Barrow A, Richards V, **Ahn S**, Leeman R, Barnett N, Porges E, Cook RL, Wang Y.
 In preparation.
 
 <br>
-
+--->
 
 # Statistical and Computational Methods:
+**Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2025+). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[preprint]</a>
+
 **Ahn S**, Datta S. (2024). Differential Network Connectivity Analysis for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values. *BMC Bioinformatics*. 25(1):117. PMID: 38500042.
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Datta S. (2024). SOHPIE: Statistical Approach via Pseudo-Value Information and Estimation for Differential Network Analysis of Microbiome Data. *Bioinformatics*. 40(1):btad766. PMID: 38134422. <a href="https://cran.r-project.org/web/packages/SOHPIE/index.html" style="color: blue;">[R package]</a>
