@@ -26,6 +26,9 @@ In preparation.
 Barrow A, Richards V, **Ahn S**, Leeman R, Barnett N, Porges E, Cook RL, Wang Y. Validating a New-Generation Wrist-Worn Alcohol Biosensor Among Persons With and Without HIV in a Laboratory Setting. <br>
 In preparation.
 
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. (2024). Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
+*Otolaryngology-Head and Neck Surgery*. Accepted.
+
 <br>
 --->
 
@@ -51,7 +54,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 
 # Collaborative Research (as a lead author):
 **Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. (2024). Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
-*Otolaryngology-Head and Neck Surgery*. Accepted.
+*Otolaryngology-Head and Neck Surgery*. 171(6):1764-1772. PMID: 39082895.
 
 **Ahn S**, Grimes T, Datta S. (2021). The Analysis of Gene Expression Data Incorporating Tumor Purity Information. *Frontiers in Genetics*. 12:642759. PMID: 34497631.
 
