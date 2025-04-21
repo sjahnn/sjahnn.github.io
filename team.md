@@ -11,7 +11,7 @@ Weijia holds an MSc in Biostatistics from the University of Washington in Seattl
 
 
 <img src="/images/EPark_Profile.jpeg" alt="EPark Profile"
-     style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;">
+     style="width: 250px; height: 300px; object-fit: cover;">
 
 **Ethan Park** (Undergraduate Research Assistant, Mar. 2025 -- Now)
 
