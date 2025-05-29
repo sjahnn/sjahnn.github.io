@@ -35,7 +35,7 @@ In preparation.
 # Statistical and Computational Methods:
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2025+). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
-Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improved Prediction of Survival Outcomes with Application to Nasopharyngeal Cancer. <a href="https://arxiv.org/abs/2503.16732" style="color: blue;">[Preprint]</a>
+Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improved Prediction of Survival Outcomes with Application to Nasopharyngeal Cancer. *Biometrics*. Accepted. <a href="https://arxiv.org/abs/2503.16732" style="color: blue;">[Preprint]</a>
 
 **Ahn S**, Datta S. (2024). Differential Network Connectivity Analysis for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values. *BMC Bioinformatics*. 25(1):117. PMID: 38500042.
 
