@@ -15,4 +15,5 @@ Weijia holds an MSc in Biostatistics from the University of Washington in Seattl
 
 **Ethan Park** (Undergraduate Research Assistant, Mar. 2025 -- Now)
 
-Ethan is an undergraduate student at Rutgers University, double-majoring in Mathematics and Computer Science. He has a strong passion for machine learning and research in related fields. At Mount Sinai, Ethan is excited to explore causal mediation analysis and contribute to cutting-edge research. Currently, he is working on a project that applies various penalization regression methods to large transcriptomics datasets, integrating known cancer-related clinical variables.
+Ethan is an undergraduate student at Rutgers University, double-majoring in Mathematics and Computer Science. He has a strong passion for machine learning and research in related fields. At Mount Sinai, Ethan is excited to explore causal mediation analysis and contribute to cutting-edge research. Currently, he is working on a project that applies ensemble classification methods to large proteogenomic datasets, integrating known cancer-related clinical variables to predict survival outcomes.
+
