@@ -37,7 +37,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 # Statistical and Computational Methods:
 **Ahn S**<sup><span>&#9993;</span></sup>, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
 
-**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2025+). A Network-Guided Penalized Regression with Application to Proteomics Data. <a href="https://arxiv.org/abs/2505.22986" style="color: blue;">[Preprint]</a><a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2025+). A Network-Guided Penalized Regression with Application to Proteomics Data. <a href="https://arxiv.org/abs/2505.22986" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2025+). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
