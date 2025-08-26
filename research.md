@@ -37,6 +37,8 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 # Statistical and Computational Methods:
 **Ahn S**<sup><span>&#9993;</span></sup>, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
 
+Osarfo S, Yi S, Fu W, **Ahn S**. (2025+). CHIMA: A Correlation-Aware High-Dimensional Mediation Analysis with Its Application to the Living Brain Project Study. <a href="https://arxiv.org/abs/2508.16883" style="color: blue;">[Preprint]</a>
+
 **Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2025+). A Network-Guided Penalized Regression with Application to Proteomics Data. <a href="https://arxiv.org/abs/2505.22986" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2025+). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
@@ -68,6 +70,8 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 
 
 # Collaborative Research (as a co-author):
+Tham T, Kim AH, Wilensky J, Tsang C, Giannaris PS, Wang BY, Panara K, Christian Z, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide J, Craig JR, Kshirsagar RS, Locke TB, **Ahn S**, Oh EJ, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2025). Frontal Sinus Inverted Papilloma: Surgical Challenges and Outcomes of a Multi-Institutional Cohort. *The Laryngoscope*. Accept.
+
 Gebru NM, James TG, **Ahn S**, Cheong J, Berry MS, Cook RL, Leeman RF. (2024). A Behavioral Economic Examination of Sexual Behaviors in the Era of Pre-Exposure Prophylaxis via Explanatory Sequential Mixed Methods. *Archives of Sexual Behavior*. 53(4):1541-1559. PMID: 38472604.
 
 Zhang X, **Ahn S**, Qiu P, Datta S. (2023). Identification of Shared Biological Features in Four Different Lung Cells Infected with SARS-CoV-2 Virus Through RNA-Seq Analysis. *Frontiers in Genetics*. 14:1235927. PMID: 37662846.
