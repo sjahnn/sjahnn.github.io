@@ -72,7 +72,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 # Collaborative Research (as a co-author):
 Lovett JT, Westra WH, Roof S, Bakst RL, Sindhu K, Genden E, Wotman MT, Ivic-Pavlicic T, **Ahn S**, Chen T, Misiukiewicz K, Posner M. (2025). Incidence and outcomes of radiation-associated second primary malignancies in HPV-positive oropharyngeal cancer: long-term follow-up of the quarterback de-escalation trials. *Oral Oncology*. 169:107654. PMID: 40934671.
 
-Tham T, Kim AH, Wilensky J, Tsang C, Giannaris PS, Wang BY, Panara K, Christian Z, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide J, Craig JR, Kshirsagar RS, Locke TB, **Ahn S**, Oh EJ, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2025). Frontal Sinus Inverted Papilloma: Surgical Challenges and Outcomes of a Multi-Institutional Cohort. *The Laryngoscope*. Online ahead of print.. PMID: 40899433.
+Tham T, Kim AH, Wilensky J, Tsang C, Giannaris PS, Wang BY, Panara K, Christian Z, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide J, Craig JR, Kshirsagar RS, Locke TB, **Ahn S**, Oh EJ, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2025). Frontal Sinus Inverted Papilloma: Surgical Challenges and Outcomes of a Multi-Institutional Cohort. *The Laryngoscope*. Online ahead of print. PMID: 40899433.
 
 Gebru NM, James TG, **Ahn S**, Cheong J, Berry MS, Cook RL, Leeman RF. (2024). A Behavioral Economic Examination of Sexual Behaviors in the Era of Pre-Exposure Prophylaxis via Explanatory Sequential Mixed Methods. *Archives of Sexual Behavior*. 53(4):1541-1559. PMID: 38472604.
 
