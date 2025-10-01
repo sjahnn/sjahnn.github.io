@@ -35,7 +35,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 --->
 
 # Statistical and Computational Methods:
-**Ahn S**<sup><span>&#9993;</span></sup>, Chen L, van Gerwen M, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
+**Ahn S**<sup><span>&#9993;</span></sup>, Chen L, van Gerwen M, Roussos P, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
 
 Osarfo S, Yi S, Fu W, **Ahn S**. (2025+). CHIMA: A Correlation-Aware High-Dimensional Mediation Analysis with Its Application to the Living Brain Project Study. <a href="https://arxiv.org/abs/2508.16883" style="color: blue;">[Preprint]</a>
 
