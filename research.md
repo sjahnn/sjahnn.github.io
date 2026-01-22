@@ -70,7 +70,9 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 
 
 # Collaborative Research (as a co-author):
-Tham T, Giannaris P, Kokabee M, Kim A, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Kennedy DW, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. A Novel Risk Stratification Tool for Sinonasal Inverted Papilloma Recurrence: Multi-Institutional Nomogram Incorporating Dysplasia Severity. *Int Forum Allergy Rhinol*. 2026 Jan 9. Epub ahead of print. PMID: 41508928.
+Lovett JT, Wotman MT, Westra WH, **Ahn S**, Gupta V, Bakst RL, Roof S, Miles BA, Genden E, Misiukiewicz K, Worona L, Ramos E, Botzler J, Chen T, Posner M. (2026). Long-Term outcomes of induction chemotherapy-guided reduced-dose chemoradiotherapy in poor-risk HPV-Positive oropharyngeal Cancer: Results from the sequential quarterback trials. *Oral Oncology*. 174:107858. Epub ahead of print. PMID: 41564691.
+
+Tham T, Giannaris P, Kokabee M, Kim A, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Kennedy DW, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2026). A Novel Risk Stratification Tool for Sinonasal Inverted Papilloma Recurrence: Multi-Institutional Nomogram Incorporating Dysplasia Severity. *Int Forum Allergy Rhinol*. Epub ahead of print. PMID: 41508928.
 
 Kim AH, Tham T, Giannaris PS, Kokabee M, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Workman AD, Kohanski MA, Douglas J, Robertson ES, Jalaly J, Adappa ND, Palmer JN, Tong CCL. (2025). Sinonasal Inverted Papilloma and Clinical Significance of Dysplasia: A Multi-Institutional Study. *Laryngoscope*. Epub ahead of print. PMID: 41273225.
 
