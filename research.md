@@ -35,7 +35,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 --->
 
 # Statistical and Computational Methods:
-**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2026). A Network-Guided Penalized Regression with Application to Proteomics Data. *Bioinformatics Advances*. Accepted. <a href="https://doi.org/10.1093/bioadv/vbag038" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2026). A Network-Guided Penalized Regression with Application to Proteomics Data. *Bioinformatics Advances*. 6(1):vbag038. PMID: 41768280. <a href="https://doi.org/10.1093/bioadv/vbag038" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Chen L, van Gerwen M, Roussos P, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
 
@@ -72,7 +72,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 # Collaborative Research (as a co-author):
 Lovett JT, Wotman MT, Westra WH, **Ahn S**, Gupta V, Bakst RL, Roof S, Miles BA, Genden E, Misiukiewicz K, Worona L, Ramos E, Botzler J, Chen T, Posner M. (2026). Long-Term outcomes of induction chemotherapy-guided reduced-dose chemoradiotherapy in poor-risk HPV-Positive oropharyngeal Cancer: Results from the sequential quarterback trials. *Oral Oncology*. 174:107858. Epub ahead of print. PMID: 41564691.
 
-Tham T, Giannaris P, Kokabee M, Kim A, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Kennedy DW, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2026). A Novel Risk Stratification Tool for Sinonasal Inverted Papilloma Recurrence: Multi-Institutional Nomogram Incorporating Dysplasia Severity. *Int Forum Allergy Rhinol*. Epub ahead of print. PMID: 41508928.
+Tham T, Giannaris P, Kokabee M, Kim A, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Kennedy DW, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2026). A Novel Risk Stratification Tool for Sinonasal Inverted Papilloma Recurrence: Multi-Institutional Nomogram Incorporating Dysplasia Severity. *Int Forum Allergy Rhinol*. 16(3):287-291. PMID: 41508928.
 
 Kim AH, Tham T, Giannaris PS, Kokabee M, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Workman AD, Kohanski MA, Douglas J, Robertson ES, Jalaly J, Adappa ND, Palmer JN, Tong CCL. (2025). Sinonasal Inverted Papilloma and Clinical Significance of Dysplasia: A Multi-Institutional Study. *Laryngoscope*. Epub ahead of print. PMID: 41273225.
 
