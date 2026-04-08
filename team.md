@@ -9,6 +9,12 @@ permalink: /team/
 
 Weijia holds an MSc in Biostatistics from the University of Washington in Seattle. Prior to joining the Mount Sinai, she was a member of Dr. Michael Wu's lab at the Fred Hutchinson Cancer Research Center, where she focused on the research of statistical challenges in microbiome data and association testing for high-dimensional data. As a team member, Weijia has been involved in (1) the development of statistical methodologies and (2) the analyses of high-dimensional -omics data and large-scale population-level data. She has expertise in statistical computing in Python and R. Her recent accomplishments include an identification of cell-type-specific associations from bulk high-throughput omics data, a revealing of novel mechanisms for prostate cancer survival through a transcriptome-wide association study, and a construction of Docker for data simulators.
 
+{% include image.html url="/images/Alicia_Yang_Profile_jpeg" width=400 %} 
+
+**Alicia Yang** (MD/MSCR candidate, Apr. 2026 -- Now)
+
+Alicia is an MD/MSCR candidate at the Icahn School of Medicine at Mount Sinai. She is interested in head and neck oncology, environmental epidemiology, and clinical applications of omics research and causal mediation analysis. She is looking forward to working with the team to develop clinically relevant applications of novel statistical methods.
+
 
 <img src="/images/EPark_Profile.jpeg" alt="EPark Profile"
      style="width: 250px; height: 300px; object-fit: cover;">
