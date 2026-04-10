@@ -35,7 +35,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 --->
 
 # Statistical and Computational Methods:
-**Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2026). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. *PLOS Computational Biology* Accept. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
+**Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2026). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. *PLOS Computational Biology*. Accepted. <a href="https://arxiv.org/abs/2503.08606" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Porchia D, Roussos P, van Gerwen M, Lu Q, Li Z. (2026+). A Quasi-Regression Method for the Mediation Analysis of Zero-Inflated Single-Cell Data. <a href="https://arxiv.org/abs/2604.08507" style="color: blue;">[Preprint]</a> <a href="https://github.com/sjahnn/QuasiMed" style="color: blue;">[R package]</a>
 
