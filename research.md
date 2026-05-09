@@ -74,6 +74,8 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 
 
 # Collaborative Research (as a co-author):
+Roof SA, Sicard RM, Chennareddy S, **Ahn S**, Fu W, Gomez E, Kraft DO, Cooke P, Genden E, Teng M, Berger M, Khan M, Urken M, Misiukiewicz KJ, Worona L, Pujadas E, Bakst E, Liu J, Sindhu K, Chai R. (2026). Post-treatment circulating tumor DNA clinical features, prognosis in HPV-positive oropharynx cancer. *Oral Oncology*. 178:108003. Accepted.
+
 Lovett JT, Wotman MT, Westra WH, **Ahn S**, Gupta V, Bakst RL, Roof S, Miles BA, Genden E, Misiukiewicz K, Worona L, Ramos E, Botzler J, Chen T, Posner M. (2026). Long-Term outcomes of induction chemotherapy-guided reduced-dose chemoradiotherapy in poor-risk HPV-Positive oropharyngeal Cancer: Results from the sequential quarterback trials. *Oral Oncology*. 174:107858. Epub ahead of print. PMID: 41564691.
 
 Tham T, Giannaris P, Kokabee M, Kim A, Wilensky J, Tsang C, Wang BY, Panara K, Kuan EC, Papagiannopoulos P, Tajudeen B, Eide JG, Craig JR, Kshirsagar RS, Christian Z, Locke TB, Fastenberg JH, Chaskes MB, Pollack AZ, Har-El G, Cui S, Guerrero D, **Ahn S**, Oh EJ, Kennedy DW, Workman AD, Kohanski MA, Douglas J, Adappa ND, Palmer JN, Tong CCL. (2026). A Novel Risk Stratification Tool for Sinonasal Inverted Papilloma Recurrence: Multi-Institutional Nomogram Incorporating Dysplasia Severity. *Int Forum Allergy Rhinol*. 16(3):287-291. PMID: 41508928.
