@@ -11,7 +11,7 @@ Weijia holds an MSc in Biostatistics from the University of Washington in Seattl
 
 
 <img src="/images/Alicia_Yang_Profile.jpeg" alt="AYang Profile"
-     style="width: 250px; height: 300px; object-fit: cover;">
+     style="width: 200px; height: 250px; object-fit: cover;">
 
 **Alicia Yang** (MD/MSCR candidate, Apr. 2026 -- Now)
 
@@ -20,9 +20,15 @@ Alicia is an MD/MSCR candidate at the Icahn School of Medicine at Mount Sinai. S
 
 
 <img src="/images/EPark_Profile.jpeg" alt="EPark Profile"
-     style="width: 250px; height: 300px; object-fit: cover;">
+     style="width: 200px; height: 250px; object-fit: cover;">
 
 **Ethan Park** (Undergraduate Research Assistant, Mar. 2025 -- Now)
 
-Ethan is an undergraduate student at Rutgers University, double-majoring in Mathematics and Computer Science. He has a strong passion for machine learning and research in related fields. At Mount Sinai, Ethan is excited to explore causal mediation analysis and contribute to cutting-edge research. Currently, he is working on a project that applies ensemble classification methods to large proteogenomic datasets, integrating known cancer-related clinical variables to predict survival outcomes.
+Ethan is an undergraduate student at Rutgers University, double-majoring in Mathematics and Computer Science. He has a strong passion for machine learning and research in related fields. At Mount Sinai, Ethan is excited to explore causal mediation analysis and contribute to cutting-edge research. Currently, he is working on a project that applies ensemble classification methods to large proteogenomic dataset, integrating known cancer-related clinical variables to predict survival outcomes.
+
+
+
+**Eva Lee** (Undergraduate Research Assistant, Jan. 2026 -- Now)
+
+Eva Lee is an undergraduate student at the University of Pittsburgh, majoring in Neuroscience on the pre-med track. She is deeply interested in the biological foundations of neurological and psychiatric disorders and hopes to pursue a career in medicine. She is involved in research related to how neural and behavioral factors contribute to health outcomes and is excited to continue working with the team to explore data analysis and scientific investigation.
 
