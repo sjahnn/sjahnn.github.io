@@ -66,7 +66,9 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved
 <br>
 
 
-# Collaborative Research (as a lead author):
+# Collaborative Research (as a lead/senior author):
+Park E, Lee H, Oh EJ, Tham T, **Ahn S**<sup><span>&#9993;</span></sup>. (2026+). Super Learner Ensemble Modeling of CPTAC Proteomic Data for Survival Prediction in Head and Neck Squamous Cell Carcinoma. <a href="https://www.biorxiv.org/content/10.64898/2026.06.08.730964v1" style="color: blue;">[Preprint]</a>
+
 **Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Saleem MI, Tham T. (2024). Machine Learning Methods in Classification of Prolonged Radiation Therapy in Oropharyngeal Cancer: National Cancer Database. <br>
 *Otolaryngology-Head and Neck Surgery*. 171(6):1764-1772. PMID: 39082895.
 
