@@ -35,7 +35,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 --->
 
 # Statistical and Computational Methods:
-**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Prada D, Shojaie A. (2026+). Integrating Spatially Adjusted Protein Summaries for Survival Prediction in Spatial Proteomics. <a href="https://www.biorxiv.org/content/10.64898/2026.06.08.730964v1" style="color: blue;">[Preprint]</a>
+**Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ, Prada D, Shojaie A. (2026+). Integrating Spatially Adjusted Protein Summaries for Survival Prediction in Spatial Proteomics. <a href="https://www.biorxiv.org/content/10.64898/2026.06.08.730964v1" style="color: blue;">[Preprint]</a><a href="https://cran.r-project.org/web/packages/SurvSPro/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2026). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. *PLOS Computational Biology*. 22(4):e1014217. PMID: 42044175. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014217" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
