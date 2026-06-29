@@ -78,7 +78,9 @@ Park E, Lee H, Oh EJ, Tham T, **Ahn S**<sup><span>&#9993;</span></sup>. (2026+).
 
 
 # Collaborative Research (as a co-author):
-Roof SA, Sicard RM, Chennareddy S, **Ahn S**, Fu W, Gomez E, Kraft DO, Cooke P, Genden E, Teng M, Berger M, Khan M, Urken M, Misiukiewicz KJ, Worona L, Pujadas E, Bakst E, Liu J, Sindhu K, Chai R. (2026). Post-treatment circulating tumor DNA clinical features, prognosis in HPV-positive oropharynx cancer. *Oral Oncology*. 178:108003. Accepted.
+Daşdöğen Ü, Hitchcock J, Ahn S, Ng BB, Verdolini-Abbott K. Visual-Spatial Influences on Vocal Intensity: Effects of Speaker-to-Listener Distance and Room Size in Immersive Virtual Reality. J Speech Lang Hear Res. 2026 Jun 25:1-9. Epub ahead of print. PMID: 42348532.
+
+Roof SA, Sicard RM, Chennareddy S, **Ahn S**, Fu W, Gomez E, Kraft DO, Cooke P, Genden E, Teng M, Berger M, Khan M, Urken M, Misiukiewicz KJ, Worona L, Pujadas E, Bakst E, Liu J, Sindhu K, Chai R. (2026). Post-treatment circulating tumor DNA clinical features, prognosis in HPV-positive oropharynx cancer. *Oral Oncology*. 178:108003. Epub 2026 May 9. PMID: 42107223.
 
 Lovett JT, Wotman MT, Westra WH, **Ahn S**, Gupta V, Bakst RL, Roof S, Miles BA, Genden E, Misiukiewicz K, Worona L, Ramos E, Botzler J, Chen T, Posner M. (2026). Long-Term outcomes of induction chemotherapy-guided reduced-dose chemoradiotherapy in poor-risk HPV-Positive oropharyngeal Cancer: Results from the sequential quarterback trials. *Oral Oncology*. 174:107858. Epub ahead of print. PMID: 41564691.
 
