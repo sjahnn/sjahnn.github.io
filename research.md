@@ -76,8 +76,10 @@ Park E, Lee H, Oh EJ, Tham T, **Ahn S**<sup><span>&#9993;</span></sup>. (2026+).
 
 <br>
 
-
 # Collaborative Research (as a co-author):
+Dhar M, **Ahn S**, Fu W, Goldner W, Monaghan M, van Gerwen M. (2026). Ecological Analysis of 2,4-Dichlorophenoxyacetic Acid (2,4-D) Exposure
+and Thyroid Cancer Incidence in the United States. *Endocrines*. Accepted.
+
 Daşdöğen Ü, Hitchcock J, **Ahn S**, Ng BB, Verdolini-Abbott K. (2026). Visual-Spatial Influences on Vocal Intensity: Effects of Speaker-to-Listener Distance and Room Size in Immersive Virtual Reality. *J Speech Lang Hear Res*. 2026 Jun 25:1-9. Epub ahead of print. PMID: 42348532.
 
 Roof SA, Sicard RM, Chennareddy S, **Ahn S**, Fu W, Gomez E, Kraft DO, Cooke P, Genden E, Teng M, Berger M, Khan M, Urken M, Misiukiewicz KJ, Worona L, Pujadas E, Bakst E, Liu J, Sindhu K, Chai R. (2026). Post-treatment circulating tumor DNA clinical features, prognosis in HPV-positive oropharynx cancer. *Oral Oncology*. 178:108003. Epub 2026 May 9. PMID: 42107223.
