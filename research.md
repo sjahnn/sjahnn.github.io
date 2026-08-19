@@ -39,7 +39,7 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2026). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. *PLOS Computational Biology*. 22(4):e1014217. PMID: 42044175. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014217" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
-**Ahn S**<sup><span>&#42;</span></sup><sup><span>&#9993;</span></sup>, Wu Q<sup><span>&#42;</span></sup>, Yang A, Li Z<sup><span>&#9993;</span></sup>. (2026+). A Zero-Inflated Beta Mixture Model for Marginal Mediation Analysis with Compositional Microbiome Mediators. <a href="https://arxiv.org/abs/2605.04372" style="color: blue;">[Preprint]</a>
+**Ahn S**<sup><span>&#42;</span></sup><sup><span>&#9993;</span></sup>, Wu Q<sup><span>&#42;</span></sup>, Yang A, Porchia D, Fu W, Li Z<sup><span>&#9993;</span></sup>. (2026+). A Zero-Inflated Beta Mixture Model for Marginal Mediation Analysis with Compositional Microbiome Mediators. <a href="https://arxiv.org/abs/2605.04372" style="color: blue;">[Preprint]</a><a href="https://github.com/fuweijia/ZIBM" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Porchia D, Roussos P, van Gerwen M, Lu Q, Li Z. (2026+). A Quasi-Regression Method for the Mediation Analysis of Zero-Inflated Single-Cell Data. <a href="https://arxiv.org/abs/2604.08507" style="color: blue;">[Preprint]</a> <a href="https://github.com/sjahnn/QuasiMed" style="color: blue;">[R package]</a>
 
@@ -77,10 +77,12 @@ Park E, Lee H, Oh EJ, Tham T, **Ahn S**<sup><span>&#9993;</span></sup>. (2026+).
 <br>
 
 # Collaborative Research (as a co-author):
+Gomez EA, Kraft DO, Elkersh Y, Cooke PV, Sicard RM, Barrett TF, Shemtob L, **Ahn S**, Berger MH, Teng MS, Kirke DN, Urken M, Khan M, Chai RL, Khorsandi A, Bakst RL, Sindhu KK, Liu JT, Misiukiewicz KJ, Veremis B, Sohn SY, Brandwein MS, Pujadas E, Genden EM, Roof SA. (2026). Pathologic Response After Neoadjuvant Chemoimmunotherapy in Head and Neck Squamous Cell Carcinoma. *JAMA Otolaryngol Head Neck Surg*. Epub ahead of print. PMID: 42593779
+
 Dhar M, **Ahn S**, Fu W, Goldner W, Monaghan M, van Gerwen M. (2026). Ecological Analysis of 2,4-Dichlorophenoxyacetic Acid (2,4-D) Exposure
 and Thyroid Cancer Incidence in the United States. *Endocrines*. Accepted.
 
-Daşdöğen Ü, Hitchcock J, **Ahn S**, Ng BB, Verdolini-Abbott K. (2026). Visual-Spatial Influences on Vocal Intensity: Effects of Speaker-to-Listener Distance and Room Size in Immersive Virtual Reality. *J Speech Lang Hear Res*. 2026 Jun 25:1-9. Epub ahead of print. PMID: 42348532.
+Daşdöğen Ü, Hitchcock J, **Ahn S**, Ng BB, Verdolini-Abbott K. (2026). Visual-Spatial Influences on Vocal Intensity: Effects of Speaker-to-Listener Distance and Room Size in Immersive Virtual Reality. *J Speech Lang Hear Res*. 69(8):3670-3678. PMID: 42348532.
 
 Roof SA, Sicard RM, Chennareddy S, **Ahn S**, Fu W, Gomez E, Kraft DO, Cooke P, Genden E, Teng M, Berger M, Khan M, Urken M, Misiukiewicz KJ, Worona L, Pujadas E, Bakst E, Liu J, Sindhu K, Chai R. (2026). Post-treatment circulating tumor DNA clinical features, prognosis in HPV-positive oropharynx cancer. *Oral Oncology*. 178:108003. Epub 2026 May 9. PMID: 42107223.
 
