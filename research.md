@@ -39,8 +39,6 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 
 **Ahn S**<sup><span>&#9993;</span></sup>, Porchia D, Roussos P, van Gerwen M, Lu Q, Li Z. (2026+). A Quasi-Regression Method for the Mediation Analysis of Zero-Inflated Single-Cell Data. <a href="https://arxiv.org/abs/2604.08507" style="color: blue;">[Preprint]</a> <a href="https://github.com/sjahnn/QuasiMed" style="color: blue;">[R package]</a>
 
-**Ahn S**<sup><span>&#9993;</span></sup>, Chen L, van Gerwen M, Roussos P, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
-
 **Ahn S**<sup><span>&#9993;</span></sup>, Fu W, van Gerwen M, Liu L, Li Z. (2026). A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data. *PLOS Computational Biology*. 22(4):e1014217. PMID: 42044175. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014217" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/SMAHP/index.html" style="color: blue;">[R package]</a>
 
 **Ahn S**<sup><span>&#42;</span></sup><sup><span>&#9993;</span></sup>, Wu Q<sup><span>&#42;</span></sup>, Yang A, Porchia D, Fu W, Li Z<sup><span>&#9993;</span></sup>. (2026). A Zero-Inflated Beta Mixture Model for Marginal Mediation Analysis with Compositional Microbiome Mediators. *Frontiers in Cellular and Infection Microbiology*. Accepted. <a href="https://arxiv.org/abs/2605.04372" style="color: blue;">[Preprint]</a> <a href="https://github.com/fuweijia/ZIBM" style="color: blue;">[R package]</a>
@@ -48,6 +46,8 @@ Oh EJ, **Ahn S**, Tham T, Qian M. (2025+). Leveraging Two-Phase Data for Improve
 **Ahn S**<sup><span>&#9993;</span></sup>, Oh EJ. (2026). A Network-Guided Penalized Regression with Application to Proteomics Data. *Bioinformatics Advances*. 6(1):vbag038. PMID: 41768280. <a href="https://doi.org/10.1093/bioadv/vbag038" style="color: blue;">[pdf]</a> <a href="https://cran.r-project.org/web/packages/NetGreg/index.html" style="color: blue;">[R package]</a>
 
 Osarfo S, Yi S, Fu W, **Ahn S**. (2025+). CHIMA: A Correlation-Aware High-Dimensional Mediation Analysis with Its Application to the Living Brain Project Study. <a href="https://arxiv.org/abs/2508.16883" style="color: blue;">[Preprint]</a>
+
+**Ahn S**<sup><span>&#9993;</span></sup>, Chen L, van Gerwen M, Roussos P, Li Z. (2025+). A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data. <a href="https://arxiv.org/abs/2507.06113" style="color: blue;">[Preprint]</a> <a href="https://cran.r-project.org/web/packages/MedZIsc/index.html" style="color: blue;">[R package]</a>
 
 Oh EJ, **Ahn S**, Tham T, Qian M. (2025). Leveraging Two-Phase Data for Improved Prediction of Survival Outcomes with Application to Nasopharyngeal Cancer. *Biometrics*. 81(2):ujaf080. PMID: 40568759.
 
