@@ -77,10 +77,11 @@ Park E, Lee H, Oh EJ, Tham T, **Ahn S**<sup><span>&#9993;</span></sup>. (2026+).
 <br>
 
 # Collaborative Research (as a co-author):
+Richards VL, Barrow A, **Ahn S**, Chavez A, Leeman RF, Barnett NP, Porges EC, Cook RL, Wang Y. (2026). Validating a new-generation wrist-worn alcohol biosensor among persons with and without HIV in a laboratory setting. *Alcohol: Clinical and Experimental Research*. Accepted.
+
 Gomez EA, Kraft DO, Elkersh Y, Cooke PV, Sicard RM, Barrett TF, Shemtob L, **Ahn S**, Berger MH, Teng MS, Kirke DN, Urken M, Khan M, Chai RL, Khorsandi A, Bakst RL, Sindhu KK, Liu JT, Misiukiewicz KJ, Veremis B, Sohn SY, Brandwein MS, Pujadas E, Genden EM, Roof SA. (2026). Pathologic Response After Neoadjuvant Chemoimmunotherapy in Head and Neck Squamous Cell Carcinoma. *JAMA Otolaryngol Head Neck Surg*. Epub ahead of print. PMID: 42593779
 
-Dhar M, **Ahn S**, Fu W, Goldner W, Monaghan M, van Gerwen M. (2026). Ecological Analysis of 2,4-Dichlorophenoxyacetic Acid (2,4-D) Exposure
-and Thyroid Cancer Incidence in the United States. *Endocrines*. 7(3):43.
+Dhar M, **Ahn S**, Fu W, Goldner W, Monaghan M, van Gerwen M. (2026). Ecological Analysis of 2,4-Dichlorophenoxyacetic Acid (2,4-D) Exposure and Thyroid Cancer Incidence in the United States. *Endocrines*. 7(3):43.
 
 Daşdöğen Ü, Hitchcock J, **Ahn S**, Ng BB, Verdolini-Abbott K. (2026). Visual-Spatial Influences on Vocal Intensity: Effects of Speaker-to-Listener Distance and Room Size in Immersive Virtual Reality. *J Speech Lang Hear Res*. 69(8):3670-3678. PMID: 42348532.
 
